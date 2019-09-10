@@ -22,3 +22,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#node
+node_modules/
