@@ -2,7 +2,7 @@
 
 ![image: demonstration of photo booth](https://github.com/ming-yong/JS30-19-photo-booth/blob/master/photoBooth.gif)
 
-Photo booth using web cam built with vanilla JS. You can [view demo here](https://ming-yong.github.io/JS30-19-photo-booth/) or [view my blog post about this build here](https://ming-yong.github.io/blog/vanillajs/2019/09/10/14-photo-booth/).
+Photo booth using web cam. This is one of my vanilla JavaScript practice projects, you can [view demo here](https://ming-yong.github.io/JS30-19-photo-booth/) or [my building note here](https://ming-yong.github.io/2019/09/10/14-photo-booth/).
 
 ## User stories
 
