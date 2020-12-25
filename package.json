@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.12.5 <2.23.2",
-    "qs": ">=6.2.3"
+    "qs": ">=6.2.3",
+    "object-path": ">=0.11.5"
   }
 }
